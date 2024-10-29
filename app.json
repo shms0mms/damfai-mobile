@@ -19,8 +19,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.mms00001.damfaimobile"
+      }
     },
     "web": {
       "bundler": "metro",
@@ -32,11 +31,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    },
-    "extra": {
-      "eas": {
-        "projectId": "2ac5e929-cafe-4ce4-a0ad-8c3d39a741de"
-      }
     }
   }
 }
